@@ -1,0 +1,1 @@
+Developed an LLM-powered code review assistant that analyzes source code for bugs, security vulnerabilities, performance issues, and coding-standard violations, generating actionable feedback in real time.
